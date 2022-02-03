@@ -25,6 +25,10 @@ This is a hello world project with the following software stack:
 
  - `http://localhost:3000`
 
+## Run Tests
+
+ - `pnpm run test`
+
 ## References
 
  - https://github.com/vitejs/vite
